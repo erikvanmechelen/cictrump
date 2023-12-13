@@ -1,2 +1,7 @@
 00_introduction.txt
 01_chapter_one_precinct_caucus.txt
+02_chapter_two_convention_process.txt
+03_chapter_three_endorsements.txt
+04_chapter_four_other_business.txt
+05_chapter_five_local_participation.txt
+06_conclusion.txt
