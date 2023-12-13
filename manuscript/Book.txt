@@ -1,2 +1,2 @@
-chapter1-the-basics.txt
-chapter2-writing-in-markua.txt
+00_introduction.txt
+01_chapter_one_precinct_caucus.txt
